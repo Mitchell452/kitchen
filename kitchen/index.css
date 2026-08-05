@@ -35,6 +35,7 @@
 
 #logo{
     color: red;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .hero{
@@ -392,7 +393,7 @@
     position:relative;
 }
 
-.story-image img{
+.story-image  img{
 
     width:100%;
 }
